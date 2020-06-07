@@ -1,3 +1,5 @@
+[favicon.png.zip](https://github.com/Tshianeo28/COS730/files/4743249/favicon.png.zip)
+
 ## What is Complaint Tracker System?
 
 The Complaint Tracker System is a mobile and web application that will facilitate communication between
