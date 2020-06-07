@@ -1,4 +1,4 @@
-# Complaint Tracker System
+## What is Complaint Tracker System?
 
 The Complaint Tracker System is a mobile and web application that will facilitate communication between
 the municipality and citizens. The system will provide citizens with the ability to register and then they can
