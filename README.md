@@ -8,4 +8,4 @@ send their complaint to the municipality and view their complaint status about t
 of the system is to maximize citizen satisfaction, resolve citizen complaint and increase the service delivery
 quality. 
 
-The following link provides more details on how theComplaint Tracker System works [click here](https://drive.google.com/open?id=1aF0UMIlveBToKBCR70Er9TpvS8UP3GbO)
+The following link provides more details on how the Complaint Tracker System works [click here](https://drive.google.com/open?id=1aF0UMIlveBToKBCR70Er9TpvS8UP3GbO)
