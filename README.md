@@ -1,4 +1,4 @@
-(https://github.com/Tshianeo28/COS730/files/4743249/favicon.png.zip)
+
 
 ## What is Complaint Tracker System?
 
