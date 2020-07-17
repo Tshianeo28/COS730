@@ -7,5 +7,3 @@ the municipality and citizens. The system will provide citizens with the ability
 send their complaint to the municipality and view their complaint status about their services. The main aim
 of the system is to maximize citizen satisfaction, resolve citizen complaint and increase the service delivery
 quality. 
-
-The following link provides more details on how the Complaint Tracker System works [click here](https://drive.google.com/open?id=1aF0UMIlveBToKBCR70Er9TpvS8UP3GbO)
